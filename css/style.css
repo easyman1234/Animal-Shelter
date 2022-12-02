@@ -206,5 +206,78 @@ a{
   margin-left: 700px;
 }
 .tyu{
-  margin-top: -200pxpx;
+  margin-top: -365px;
+}
+.vds{
+margin-top: -320px;
+margin-left: 50px;
+}
+.rew{
+  background-color: whitesmoke;
+  width: 1370px;
+  height: 400px;
+}
+.rew h1{
+  text-align: center;
+}
+.rew p{
+  margin-left: 250px;
+}.gt{
+  color: blue;
+}
+.quick{
+  margin-left: 1000px;
+  margin-top: -360px;
+  width: 300px;
+  height: 300px;
+}
+#push-container{
+  
+  width: 1370px;
+  height: 400px;
+  display: flex;
+  margin-left: 50px;
+  margin-top: 32px;
+ 
+}
+.done{
+  margin-left: 60px;
+}
+.done h5{
+  color: white;
+}
+.done h6{
+  color: white;
+  margin-top: 40px;
+}
+.d4 h6{
+  margin-top:35px ;
+}
+.d4 button{
+  font-size: medium;
+  color: blue;
+}
+footer{
+  background-color: black;
+  padding: 20px;
+}
+#try{
+  display: flex;
+  margin-left: 300px;
+  
+}
+.tryy ul{
+  display: flex;
+  margin-top: -60px;
+}
+.tty p{
+  color: white;
+  font-size: large;
+  margin-top: 7px;
+}
+#try p{
+  color: dimgrey;
+}
+.tryy a{
+  color: dimgrey;
 }
