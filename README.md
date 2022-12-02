@@ -26,7 +26,7 @@ _{This animal shelter project dwell on the history of EZEKIEL NANA Wildlife Trus
 
 ## License
 
-_{ MIT.}_
+_{copyrite (2022)}_
 
 ## Contact Information
 
