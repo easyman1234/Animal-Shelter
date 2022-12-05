@@ -2,7 +2,7 @@
 
 #### _{An animal shelter is a place were lost, abandoned, displaced or disabled animals are adopted and taken care of (eg dogs, cat, elephants and so on.)}_
 
-#### By _**{Ezekiel Etefia}**_
+#### By _**{Ezekiel A .Etefia}**_
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-_{This animal shelter project dwell on the history of EZEKIEL NANA Wildlife Trust and how they have adopted and taken care of several wild animals like elephants,rhino etc.}_
+_{This animal shelter project dwell on the history of williams smith Wildlife Trust and how they have adopted and taken care of several wild animals like elephants,cat,Dog etc.}_
 
 ## Setup/Installation Requirements
 
@@ -30,4 +30,4 @@ _{copyrite (2022)}_
 
 ## Contact Information
 
-_{ezekieletefia@gmail.com (08129703736 whatSappt only)}_
+_{ezekieletefia@gmail.com (08129703736 -08109993117 whatSappt only)}_
