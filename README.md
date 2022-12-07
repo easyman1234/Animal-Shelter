@@ -1,6 +1,6 @@
 # _{Animal shelter}_
 
-#### _{An animal shelter is a place were lost, abandoned, displaced or disabled animals are adopted and taken care of (eg dogs, cat, elephants and so on.)}_
+#### _{An animal shelter is a place were lost, abandoned, displaced or disabled animals are adopted and taken care of (eg dogs, cat, elephants and manyMore Animal.)}_
 
 #### By _**{Ezekiel A .Etefia}**_
 
